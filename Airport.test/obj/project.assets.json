@@ -1645,6 +1645,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Airport/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Airport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Airport.dll": {}
+        }
       }
     }
   },
@@ -5739,10 +5749,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Airport/1.0.0": {
+      "type": "project",
+      "path": "../Airport/Airport.csproj",
+      "msbuildProject": "../Airport/Airport.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "Airport >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.11.0",
@@ -5756,11 +5772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/dotnet/airport-challenge-cs/Airport.test/Airport.test.csproj",
-      "projectName": "Airport.test",
-      "projectPath": "/Users/student/dotnet/airport-challenge-cs/Airport.test/Airport.test.csproj",
+      "projectUniqueName": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport.Test/Airport.Test.csproj",
+      "projectName": "Airport.Test",
+      "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport.Test/Airport.Test.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/dotnet/airport-challenge-cs/Airport.test/obj/",
+      "outputPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport.Test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5776,7 +5792,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj": {
+              "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
