@@ -7,15 +7,15 @@ namespace Airport
     {
         // Instance Variables
         public int Capacity;
-        public List<string> Hanger;
+        public List<Object> Hanger;
 
         // Constructor Declaration of Class 
         public Terminal(int capacity = 10) {
-            Hanger = new List <string>();
+            Hanger = new List <Object>();
             Capacity = capacity;
         }
 
-        public void Land(string plane) {
+        public void Land(Object plane) {
             Hanger.Add(plane);
         }
     }

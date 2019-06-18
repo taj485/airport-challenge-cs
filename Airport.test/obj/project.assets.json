@@ -1655,6 +1655,16 @@
         "runtime": {
           "bin/placeholder/Airport.dll": {}
         }
+      },
+      "Plane/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Plane.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Plane.dll": {}
+        }
       }
     }
   },
@@ -5754,6 +5764,11 @@
       "type": "project",
       "path": "../Airport/Airport.csproj",
       "msbuildProject": "../Airport/Airport.csproj"
+    },
+    "Plane/1.0.0": {
+      "type": "project",
+      "path": "../Plane/Plane.csproj",
+      "msbuildProject": "../Plane/Plane.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5762,6 +5777,7 @@
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.11.0",
+      "Plane >= 1.0.0",
       "nunit >= 3.11.0"
     ]
   },
@@ -5795,6 +5811,9 @@
           "projectReferences": {
             "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj": {
               "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj"
+            },
+            "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/Plane.csproj": {
+              "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/Plane.csproj"
             }
           }
         }

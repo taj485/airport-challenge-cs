@@ -11,6 +11,7 @@
           "Airport": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "NUnit3TestAdapter": "3.11.0",
+          "Plane": "1.0.0",
           "NUnit": "3.11.0"
         },
         "runtime": {
@@ -1036,6 +1037,11 @@
         "runtime": {
           "Airport.dll": {}
         }
+      },
+      "Plane/1.0.0": {
+        "runtime": {
+          "Plane.dll": {}
+        }
       }
     }
   },
@@ -1543,6 +1549,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "Airport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Plane/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -6,11 +6,12 @@ namespace Airport.UnitTests
    [TestFixture]
    public class Terminal_ReturnsInstanceOf
    {
-       private readonly Terminal _terminal; Terminal _terminal2; 
+       private readonly Terminal _terminal; Terminal _terminal2; Plane _plane; 
 
        public Terminal_ReturnsInstanceOf()
        {
            _terminal = new Terminal(20);
+           _plane = new Plane();
        }
 
        [Test]
@@ -41,9 +42,8 @@ namespace Airport.UnitTests
        [Test]
        public void PlaneCanLandInHanger()
        {
-           _terminal.Land("Plane");
-           _terminal.Land("Plane");
-           Assert.AreEqual(2, _terminal.Hanger.Count);
+           _terminal.Land(_plane);
+           Assert.AreEqual(1, _terminal.Hanger.Count);
        }
 
        [Test]
@@ -52,13 +52,6 @@ namespace Airport.UnitTests
            var type =_terminal.GetType();
            Assert.IsTrue(type.GetMethod("Land") != null);
        }
-
-    //    [Test]
-    //    public void CanAddPlaneToHanger()
-    //    {
-    //     //    var type =_terminal.GetType();
-    //     //    Assert.IsTrue(type.GetMethod("Land") != null);
-    //    }
 
    }
 }

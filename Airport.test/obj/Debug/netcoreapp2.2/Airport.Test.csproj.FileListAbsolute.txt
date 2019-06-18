@@ -49,3 +49,5 @@
 /Users/student/dotnet/airport-challenge-cs/Airport.Test/obj/Debug/netcoreapp2.2/Airport.Test.csproj.CopyComplete
 /Users/student/dotnet/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.dll
 /Users/student/dotnet/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.pdb
+/Users/student/Documents/cSharp/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/Plane.dll
+/Users/student/Documents/cSharp/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/Plane.pdb
