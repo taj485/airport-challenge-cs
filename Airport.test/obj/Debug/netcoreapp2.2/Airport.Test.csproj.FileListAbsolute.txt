@@ -15,3 +15,9 @@
 /Users/student/Documents/cSharp/airport-challenge-cs/Airport.Test/obj/Debug/netcoreapp2.2/Airport.Test.csproj.CopyComplete
 /Users/student/Documents/cSharp/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.dll
 /Users/student/Documents/cSharp/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.pdb
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.csprojAssemblyReference.cache
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.csproj.CoreCompileInputs.cache
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.AssemblyInfoInputs.cache
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.AssemblyInfo.cs
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.dll
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.pdb

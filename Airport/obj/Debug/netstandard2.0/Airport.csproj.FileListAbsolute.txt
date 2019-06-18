@@ -7,3 +7,12 @@
 /Users/student/Documents/cSharp/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.AssemblyInfo.cs
 /Users/student/Documents/cSharp/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.dll
 /Users/student/Documents/cSharp/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.pdb
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/bin/Debug/netstandard2.0/Airport.deps.json
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/bin/Debug/netstandard2.0/Airport.dll
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/bin/Debug/netstandard2.0/Airport.pdb
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.csprojAssemblyReference.cache
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.csproj.CoreCompileInputs.cache
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.AssemblyInfoInputs.cache
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.AssemblyInfo.cs
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.dll
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.pdb
