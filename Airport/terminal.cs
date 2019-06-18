@@ -12,5 +12,9 @@ namespace Airport
         public Terminal(int capacity = 10) {
             Capacity = capacity;
         }
+
+        public void Land() {
+            
+        }
     }
 }

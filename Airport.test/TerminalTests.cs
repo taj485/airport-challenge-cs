@@ -37,7 +37,7 @@ namespace Airport.UnitTests
        public void CanRespondToLand()
        {
            var type =_terminal.GetType();
-           Assert.IsTrue(type.GetMethod("land") != null);
+           Assert.IsTrue(type.GetMethod("Land") != null);
        }
 
    }
