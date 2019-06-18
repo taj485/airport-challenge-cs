@@ -1,8 +1,11 @@
 ﻿using System;
 
-namespace Plane
+namespace Airport
 {
     public class Plane
     {
+        public Plane() {
+            
+        }
     }
 }

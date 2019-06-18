@@ -1,24 +1,22 @@
 using NUnit.Framework;
-using Plane;
+using Airport;
 
-namespace Plane.UnitTests
+namespace Airport.UnitTests
 {
    [TestFixture]
-   public class Plane
+   public class Plane_ReturnsInstanceOf
    {
-       private readonly PrimeService _primeService;
+       private readonly Plane _plane;
 
-       public PrimeService_IsPrimeShould()
+       public Plane_CanReturnInstanceOf()
        {
-           _primeService = new PrimeService();
+           _plane = new Plane();
        }
 
        [Test]
-       public void ReturnFalseGivenValueOf1()
+       public void ReturnsInstanceOf()
        {
-           var result = _primeService.IsPrime(1);
-
-           Assert.IsFalse(result, “1 should not be prime”);
+           Assert.IsInstanceOf(typeof(Plane), _plane);
        }
    }
 }

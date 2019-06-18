@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj": {}
+    "/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj": {}
   },
   "projects": {
-    "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj": {
+    "/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj",
+        "projectUniqueName": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj",
         "projectName": "Plane.Tests",
-        "projectPath": "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj",
+        "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/obj/",
+        "outputPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj": {
-                "projectPath": "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj"
+              "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/Plane.csproj": {
+                "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/Plane.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj": {
+    "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/Plane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj",
+        "projectUniqueName": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/Plane.csproj",
         "projectName": "Plane",
-        "projectPath": "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj",
+        "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/Plane.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/dotnet/airport-challenge-cs/Plane/obj/",
+        "outputPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Plane/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
