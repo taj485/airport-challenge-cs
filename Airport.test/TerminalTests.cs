@@ -47,6 +47,13 @@ namespace Airport.UnitTests
        }
 
        [Test]
+       public void PlaneIsInHanger()
+       {
+           _terminal.Land(_plane);
+           CollectionAssert.Contains(_terminal.Hanger, _plane);
+       }
+
+       [Test]
        public void CanRespondToLand()
        {
            var type =_terminal.GetType();
