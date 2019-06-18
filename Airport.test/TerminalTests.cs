@@ -6,11 +6,11 @@ namespace Airport.UnitTests
    [TestFixture]
    public class Terminal_ReturnsInstanceOf
    {
-       private readonly Terminal _terminal; Terminal _terminal2;
+       private readonly Terminal _terminal; 
 
        public Terminal_ReturnsInstanceOf()
        {
-           _terminal = new Terminal();
+           _terminal = new Terminal(20);
        }
 
        [Test]
@@ -22,8 +22,7 @@ namespace Airport.UnitTests
        [Test]
        public void ReturnsValueOfCapacity()
        {
-           _terminal2 = new Terminal(20);
-           Assert.AreEqual(20, _terminal2.capacity);
+           Assert.AreEqual(20, _terminal.Capacity);
        }
    }
 }

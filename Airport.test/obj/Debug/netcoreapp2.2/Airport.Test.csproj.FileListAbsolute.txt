@@ -21,3 +21,14 @@
 /Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.AssemblyInfo.cs
 /Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.dll
 /Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/obj/Debug/netcoreapp2.2/Airport.Test.pdb
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.Test/bin/Debug/netcoreapp2.2/Airport.Test.deps.json
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.Test/bin/Debug/netcoreapp2.2/Airport.Test.runtimeconfig.json
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.Test/bin/Debug/netcoreapp2.2/Airport.Test.runtimeconfig.dev.json
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/Airport.Test.dll
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/Airport.Test.pdb
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/Airport.dll
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.test/bin/Debug/netcoreapp2.2/Airport.pdb
+/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport.Test/obj/Debug/netcoreapp2.2/Airport.Test.csproj.CopyComplete
