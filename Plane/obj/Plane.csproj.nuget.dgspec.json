@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj": {}
+    "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj": {}
   },
   "projects": {
-    "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj": {
+    "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj",
-        "projectName": "Airport",
-        "projectPath": "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj",
+        "projectUniqueName": "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj",
+        "projectName": "Plane",
+        "projectPath": "/Users/student/dotnet/airport-challenge-cs/Plane/Plane.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/dotnet/airport-challenge-cs/Airport/obj/",
+        "outputPath": "/Users/student/dotnet/airport-challenge-cs/Plane/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

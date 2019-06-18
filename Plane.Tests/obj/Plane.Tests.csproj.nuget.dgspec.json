@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj": {}
+    "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj": {}
   },
   "projects": {
-    "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj": {
+    "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj",
-        "projectName": "Airport",
-        "projectPath": "/Users/student/dotnet/airport-challenge-cs/Airport/Airport.csproj",
+        "projectUniqueName": "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj",
+        "projectName": "Plane.Tests",
+        "projectPath": "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/Plane.Tests.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/dotnet/airport-challenge-cs/Airport/obj/",
+        "outputPath": "/Users/student/dotnet/airport-challenge-cs/Plane.Tests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "/Users/student/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -37,13 +37,25 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netcoreapp2.2": {
           "dependencies": {
-            "NETStandard.Library": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
             }
           },
           "imports": [
