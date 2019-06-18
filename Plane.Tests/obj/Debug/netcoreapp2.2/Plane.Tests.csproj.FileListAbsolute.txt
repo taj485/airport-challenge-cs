@@ -1,0 +1,4 @@
+/Users/student/dotnet/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.csprojAssemblyReference.cache
+/Users/student/dotnet/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.csproj.CoreCompileInputs.cache
+/Users/student/dotnet/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.AssemblyInfoInputs.cache
+/Users/student/dotnet/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.AssemblyInfo.cs

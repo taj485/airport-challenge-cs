@@ -1,0 +1,9 @@
+/Users/student/dotnet/airport-challenge-cs/Plane/bin/Debug/netstandard2.0/Plane.deps.json
+/Users/student/dotnet/airport-challenge-cs/Plane/bin/Debug/netstandard2.0/Plane.dll
+/Users/student/dotnet/airport-challenge-cs/Plane/bin/Debug/netstandard2.0/Plane.pdb
+/Users/student/dotnet/airport-challenge-cs/Plane/obj/Debug/netstandard2.0/Plane.csprojAssemblyReference.cache
+/Users/student/dotnet/airport-challenge-cs/Plane/obj/Debug/netstandard2.0/Plane.csproj.CoreCompileInputs.cache
+/Users/student/dotnet/airport-challenge-cs/Plane/obj/Debug/netstandard2.0/Plane.AssemblyInfoInputs.cache
+/Users/student/dotnet/airport-challenge-cs/Plane/obj/Debug/netstandard2.0/Plane.AssemblyInfo.cs
+/Users/student/dotnet/airport-challenge-cs/Plane/obj/Debug/netstandard2.0/Plane.dll
+/Users/student/dotnet/airport-challenge-cs/Plane/obj/Debug/netstandard2.0/Plane.pdb
