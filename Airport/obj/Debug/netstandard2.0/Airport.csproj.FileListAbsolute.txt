@@ -16,3 +16,12 @@
 /Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.AssemblyInfo.cs
 /Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.dll
 /Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.pdb
+/Users/student/dotnet/airport-challenge-cs/Airport/bin/Debug/netstandard2.0/Airport.deps.json
+/Users/student/dotnet/airport-challenge-cs/Airport/bin/Debug/netstandard2.0/Airport.dll
+/Users/student/dotnet/airport-challenge-cs/Airport/bin/Debug/netstandard2.0/Airport.pdb
+/Users/student/dotnet/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.csprojAssemblyReference.cache
+/Users/student/dotnet/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.csproj.CoreCompileInputs.cache
+/Users/student/dotnet/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.AssemblyInfoInputs.cache
+/Users/student/dotnet/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.AssemblyInfo.cs
+/Users/student/dotnet/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.dll
+/Users/student/dotnet/airport-challenge-cs/Airport/obj/Debug/netstandard2.0/Airport.pdb

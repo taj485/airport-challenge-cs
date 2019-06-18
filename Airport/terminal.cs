@@ -9,7 +9,7 @@ namespace Airport
         public int Capacity;
   
         // Constructor Declaration of Class 
-        public Terminal(int capacity) {
+        public Terminal(int capacity = 10) {
             Capacity = capacity;
         }
     }
