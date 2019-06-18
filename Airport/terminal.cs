@@ -15,8 +15,8 @@ namespace Airport
             Capacity = capacity;
         }
 
-        public void Land() {
-            
+        public void Land(string plane) {
+            Hanger.Add(plane);
         }
     }
 }

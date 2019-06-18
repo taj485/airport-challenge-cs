@@ -39,6 +39,14 @@ namespace Airport.UnitTests
        }
 
        [Test]
+       public void PlaneCanLandInHanger()
+       {
+           _terminal.Land("Plane");
+           _terminal.Land("Plane");
+           Assert.AreEqual(2, _terminal.Hanger.Count);
+       }
+
+       [Test]
        public void CanRespondToLand()
        {
            var type =_terminal.GetType();
