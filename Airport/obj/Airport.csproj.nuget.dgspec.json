@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj": {}
+    "/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/Airport.csproj": {}
   },
   "projects": {
-    "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj": {
+    "/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/Airport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj",
+        "projectUniqueName": "/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/Airport.csproj",
         "projectName": "Airport",
-        "projectPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/Airport.csproj",
-        "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/Documents/cSharp/airport-challenge-cs/Airport/obj/",
+        "projectPath": "/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/Airport.csproj",
+        "packagesPath": "/Users/linna@paddle.com/.nuget/packages/",
+        "outputPath": "/Users/linna@paddle.com/week_eight/airport-challenge-cs/Airport/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/student/.nuget/NuGet/NuGet.Config"
+          "/Users/linna@paddle.com/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

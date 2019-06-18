@@ -35,7 +35,7 @@ namespace Airport.UnitTests
        [Test]
        public void HasAHanger()
        {
-           Assert.IsEmpty(_terminal.Hanger);
+           Assert.AreEqual(0, _terminal.Hanger.Count);
        }
 
        [Test]

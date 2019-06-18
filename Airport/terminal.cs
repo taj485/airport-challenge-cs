@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections.Generic;
 
 namespace Airport
 {
@@ -7,9 +7,11 @@ namespace Airport
     {
         // Instance Variables
         public int Capacity;
-  
+        public List<string> Hanger;
+
         // Constructor Declaration of Class 
         public Terminal(int capacity = 10) {
+            Hanger = new List <string>();
             Capacity = capacity;
         }
 
