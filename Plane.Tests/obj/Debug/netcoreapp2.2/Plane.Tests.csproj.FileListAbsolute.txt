@@ -6,3 +6,16 @@
 /Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.csproj.CoreCompileInputs.cache
 /Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.AssemblyInfoInputs.cache
 /Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.AssemblyInfo.cs
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/Plane.Tests.deps.json
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/Plane.Tests.runtimeconfig.json
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/Plane.Tests.runtimeconfig.dev.json
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/Plane.Tests.dll
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/Plane.Tests.pdb
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/Plane.dll
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/bin/Debug/netcoreapp2.2/Plane.pdb
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.csproj.CopyComplete
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.dll
+/Users/student/Documents/cSharp/airport-challenge-cs/Plane.Tests/obj/Debug/netcoreapp2.2/Plane.Tests.pdb

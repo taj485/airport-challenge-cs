@@ -8,7 +8,7 @@ namespace Airport.UnitTests
    {
        private readonly Plane _plane;
 
-       public Plane_CanReturnInstanceOf()
+       public Plane_ReturnsInstanceOf()
        {
            _plane = new Plane();
        }
