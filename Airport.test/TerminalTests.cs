@@ -31,5 +31,14 @@ namespace Airport.UnitTests
            _terminal2 = new Terminal();
            Assert.AreEqual(10, _terminal2.Capacity);
        }
+
+       [Test]
+
+       public void CanRespondToLand()
+       {
+           var type =_terminal.GetType();
+           Assert.IsTrue(type.GetMethod("land") != null);
+       }
+
    }
 }
