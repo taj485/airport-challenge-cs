@@ -33,12 +33,24 @@ namespace Airport.UnitTests
        }
 
        [Test]
+       public void HasAHanger()
+       {
+           Assert.IsEmpty(_terminal.Hanger);
+       }
 
+       [Test]
        public void CanRespondToLand()
        {
            var type =_terminal.GetType();
            Assert.IsTrue(type.GetMethod("Land") != null);
        }
+
+    //    [Test]
+    //    public void CanAddPlaneToHanger()
+    //    {
+    //     //    var type =_terminal.GetType();
+    //     //    Assert.IsTrue(type.GetMethod("Land") != null);
+    //    }
 
    }
 }
